@@ -1,0 +1,386 @@
+{
+  "main": {
+    "id": "bbc4da45df2a7bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "435c20671df1fa80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e19e0a8e2772f23",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 10,
+                "mapCenter": {
+                  "lat": 35.191766965947394,
+                  "lng": -97.44049072265626
+                },
+                "query": "path:\"Zudecast Dashboard.canvas\"",
+                "chosenMapSource": 0,
+                "defaultState": {
+                  "name": "Default",
+                  "mapZoom": 1,
+                  "mapCenter": {
+                    "lat": 40.44694705960048,
+                    "lng": -180.70312500000003
+                  },
+                  "query": "",
+                  "chosenMapSource": 0
+                },
+                "savedStates": [],
+                "markerIconRules": [
+                  {
+                    "ruleName": "default",
+                    "preset": true,
+                    "iconDetails": {
+                      "prefix": "fas",
+                      "icon": "fa-circle",
+                      "markerColor": "blue"
+                    }
+                  },
+                  {
+                    "ruleName": "#trip",
+                    "preset": false,
+                    "iconDetails": {
+                      "prefix": "fas",
+                      "icon": "fa-hiking",
+                      "markerColor": "green"
+                    }
+                  },
+                  {
+                    "ruleName": "#trip-water",
+                    "preset": false,
+                    "iconDetails": {
+                      "prefix": "fas",
+                      "markerColor": "blue"
+                    }
+                  },
+                  {
+                    "ruleName": "#dogs",
+                    "preset": false,
+                    "iconDetails": {
+                      "prefix": "fas",
+                      "icon": "fa-paw"
+                    }
+                  }
+                ],
+                "zoomOnGoFromNote": 15,
+                "autoZoom": true,
+                "markerClickBehavior": "replaceCurrent",
+                "markerCtrlClickBehavior": "dedicatedPane",
+                "markerMiddleClickBehavior": "dedicatedTab",
+                "openMapBehavior": "replaceCurrent",
+                "openMapCtrlClickBehavior": "dedicatedPane",
+                "openMapMiddleClickBehavior": "dedicatedTab",
+                "newNoteNameFormat": "Location added on {{date:YYYY-MM-DD}}T{{date:HH-mm}}",
+                "showNoteNamePopup": true,
+                "showLinkNameInPopup": "mobileOnly",
+                "showNotePreview": true,
+                "showClusterPreview": false,
+                "debug": false,
+                "openIn": [
+                  {
+                    "name": "Google Maps",
+                    "urlPattern": "https://maps.google.com/?q={x},{y}"
+                  }
+                ],
+                "urlParsingRules": [
+                  {
+                    "name": "OpenStreetMap Show Address",
+                    "regExp": "https:\\/\\/www.openstreetmap.org\\S*query=([0-9\\.\\-]+%2C[0-9\\.\\-]+)\\S*",
+                    "ruleType": "latLng",
+                    "preset": true
+                  },
+                  {
+                    "name": "Generic Lat,Lng",
+                    "regExp": "([0-9\\.\\-]+), ([0-9\\.\\-]+)",
+                    "ruleType": "latLng",
+                    "preset": true
+                  }
+                ],
+                "mapControls": {
+                  "filtersDisplayed": true,
+                  "viewDisplayed": true,
+                  "presetsDisplayed": false
+                },
+                "maxClusterRadiusPixels": 20,
+                "searchProvider": "osm",
+                "useGooglePlaces": false,
+                "mapSources": [
+                  {
+                    "name": "CartoDB",
+                    "urlLight": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+                    "preset": true
+                  }
+                ],
+                "chosenMapMode": "auto",
+                "saveHistory": true,
+                "letZoomBeyondMax": false,
+                "queryForFollowActiveNote": "path:\"$PATH$\"",
+                "supportRealTimeGeolocation": false,
+                "fixFrontMatterOnPaste": true,
+                "geoHelperType": "auto",
+                "geoHelperFilePath": "",
+                "handleGeolinksInNotes": true,
+                "showGeolinkPreview": false,
+                "zoomOnGeolinkPreview": 10,
+                "queryError": false,
+                "followActiveNote": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f2a20519665bdd2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Zudecast Dashboard.canvas",
+                "viewState": {
+                  "x": -447.5,
+                  "y": -270,
+                  "zoom": -1.08462959196921
+                }
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbf687ca905f65aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ad52b941adcdbc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6df160475f7218f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a69652abd86045e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1803a615a6104ec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c536890ca4d709f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#DeepDive",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27e686c2a52d6054",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.51103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f2f7a521a56dfa36",
+    "type": "split",
+    "children": [
+      {
+        "id": "485c9c8bee5ab980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c5b8fa0de92ecb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zudecast Dashboard.canvas",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "37fcca1ba3731911",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zudecast Dashboard.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9b937d0fc4341886",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3e284cf0650cc36",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4224223b14ed19a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cd06a8147e3421d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75573847c7d7e760",
+            "type": "leaf",
+            "state": {
+              "type": "combatant-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "graph:Open graph view": false,
+      "homepage:Open homepage": false,
+      "obsidian-map-view:Open map view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "f2a20519665bdd2a",
+  "lastOpenFiles": [
+    "Zudecast Dashboard.canvas",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Templates/Character Template.md",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/D&D With Matt Conway.md",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Templates",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Episodes",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Episodes/000 - D&D With Matt Conway/000 - D&D With Matt Conway.md",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Episodes/000 - D&D With Matt Conway/ftg/Dungeons & Dragons w_ Matt Conway _ Pass The Zticks.mp4",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway/Episodes/000 - D&D With Matt Conway/000 - D&D With Matt Conway - Episode Thumbnail.png",
+    "Project Files/Zudecast Gaming/Zudecast Gaming.md",
+    "Project Files/Zudecast Gaming/D&D With Matt Conway",
+    "Project Files/Zudecast/Zudecast 083 - MK Ultra/Zudecast 083 - MK Ultra.md",
+    "Project Files/Zudecast/Zudecast 084 - Young God Mob/Zudecast 084 - Young God Mob.md",
+    "Project Files/Zudecast/Zudecast 086 - UFO UAP/Zudecast 086 - UFO UAP.md",
+    "Canvases/Deep Dives/Deep Dives.canvas",
+    "Canvases/Deep Dives/UAPs.canvas",
+    "Project Files/_RAW/Zudecast/ZC_FTG_23_08_07.mp4",
+    "Project Files/_RAW/Zudecast/ZC_FTG_23_08_07.mkv",
+    "Documents/Attachments/Pasted image 20230807171507.jpg",
+    "Documents/Attachments/Pasted image 20230807171057.jpg",
+    "Documents/Attachments/Pasted image 20230807170917.jpg",
+    "Documents/Attachments/Pasted image 20230807163557.jpg",
+    "Documents/Attachments/Pasted image 20230807163548.jpg",
+    "Documents/Attachments/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3Vmby1yZXBvcnRzLTEwOGEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoyOTB9LCJ0b0Zvcm1hdCI6ImF2aWYifX0=.avif",
+    "Documents/Attachments/Pasted image 20230807155939.jpg",
+    "Documents/Attachments/Pasted image 20230807151030.jpg",
+    "Documents/Attachments/5c3dabab01771.image.webp",
+    "3.md",
+    "Documents/Attachments/Pasted image 20230807122445.jpg",
+    "Documents/Attachments/ZEWASQK3O5GVTHOG4L4C5MNZ3A.avif",
+    "Project Files/Zudecast/Zudecast 082 - Josh Jorin/reels/Vatican Aliens/The Untold UFO Sightings in Mussolinis Italy Unveiling Fascinating Secrets.mp4",
+    "Project Files/Zudecast/Zudecast 082 - Josh Jorin/reels/Vatican Aliens/The Vaticans Hidden Secrets Unmasking an Intelligence Agency.mp4",
+    "Canvases/Deep Dives/MK Ultra Canvas.canvas",
+    "Atomic/Events/MK-ULTRA.md",
+    "Atomic/Places/Haight-Ashbury Free Medical Clinic.md",
+    "Atomic/Places/Alan Memorial Institute.md",
+    "UAPs.md",
+    "Canvases/Deep Dives/Central Bank Digital Currencies.canvas",
+    "Atomic/Places/University of Oklahoma.md",
+    "Atomic/Places/Harvard University.md",
+    "Atomic/Places/Cornell University.md",
+    "Atomic/Places/Location added on 2023-07-09T15-17.md",
+    "Atomic/Events/Human Ecology Fund.md",
+    "Atomic/Groups/NSA.md",
+    "Atomic/Groups/IRS.md",
+    "Atomic/Internet/Intellipedia.md",
+    "Atomic/Groups/FBI.md",
+    "Atomic/People/Charles Manson.md",
+    "Atomic/People/Deputy Fuhrer.md",
+    "Atomic/Events/Operation Big Switch.md",
+    "Atomic/Groups/Joint Intelligence Objectives Agency.md",
+    "Canvases/Pipelines/Editing Pipeline.canvas",
+    "Zudecast 075 - The Dead Internet Theory.canvas",
+    "Canvas.canvas",
+    "Atlas/Personal/Personal.canvas",
+    "Atlas/Work/Lex Fridman/Lex Fridman.canvas"
+  ]
+}

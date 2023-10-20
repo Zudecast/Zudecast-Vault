@@ -1,0 +1,3 @@
+- Soviet Intelligence defector
+- Soviet Subversion and the Free World Press
+- The main emphasis of the KGB is not in the area of intelligence at all. Only about 15% of time, money, and manpower is spent on espionage and such. The other 85% is a slow process which we call either ideological subversion or active measures of psychological warfare.

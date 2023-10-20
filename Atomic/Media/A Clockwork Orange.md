@@ -1,0 +1,3 @@
+> (1971)
+
+> Behaviorism concerned itself with the study of human and animal behavior in response to stimuli. Through the application of carefully controlled system of rewards and punishments—a process referred to as conditioning\, scientists could alter the behavior of test subjects more effectively than had previously been thought possible. To many people, behaviorism seemed to offer an almost limitless potential to control human behavior, and the movement had a profound effect not only in academia, but on education, government, and criminal rehabilitation as well. In A Clockwork Orange, Burgess satirizes behaviorism with his portrayal of the fictional Ludovico’s Technique.

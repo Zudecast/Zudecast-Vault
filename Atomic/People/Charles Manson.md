@@ -1,0 +1,6 @@
+- Was under [[Roger Smith]]'s watch, as Roger was his parole officer.
+- Observed by [[Alan Rose]] for four months under the direction of [[Haight-Ashbury Free Medical Clinic]].
+### Manson Family Murders
+>(1969)
+
+> In early August 1969, some Manson Family members committed murders in Los Angeles. The Manson Family gained national notoriety after the murder of actress Sharon Tate and four others in her home on August 8 and 9, 1969,  and Leno and Rosemary LaBianca the next day. Tex Watson and three other members of the Family committed the Tate–LaBianca murders, allegedly under Manson's instructions. While it was later accepted at trial that Manson never expressly ordered the murders, his behavior was deemed to warrant a conviction of first degree murder and conspiracy to commit murder. Evidence pointed to Manson's obsession with inciting a race war by killing those he thought were "pigs" and his belief that this would show the "nigger" how to do the same. Family members were also responsible for other assaults, thefts, crimes, and the attempted assassination of President Gerald Ford in Sacramento by Lynette "Squeaky" Fromme. 

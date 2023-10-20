@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "name": "Markdown"
+    },
+    {
+      "name": "Markdown (Hugo)"
+    },
+    {
+      "name": "Html"
+    },
+    {
+      "name": "TextBundle"
+    },
+    {
+      "name": "PDF",
+      "openExportedFileLocation": true
+    },
+    {
+      "name": "Word (.docx)"
+    },
+    {
+      "name": "OpenOffice"
+    },
+    {
+      "name": "RTF"
+    },
+    {
+      "name": "Epub"
+    },
+    {
+      "name": "Latex"
+    },
+    {
+      "name": "Media Wiki"
+    },
+    {
+      "name": "reStructuredText"
+    },
+    {
+      "name": "Textile"
+    },
+    {
+      "name": "OPML"
+    },
+    {
+      "name": "Typst"
+    },
+    {
+      "name": "Bibliography"
+    }
+  ],
+  "pandocPath": {
+    "win32": "C:\\Program Files\\Pandoc"
+  },
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": true,
+  "lastEditName": "PDF",
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\User\\Desktop"
+  },
+  "version": "1.1.8"
+}

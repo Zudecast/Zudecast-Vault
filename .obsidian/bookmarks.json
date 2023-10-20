@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1683418227517,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1683418183771,
+          "path": "Canvases/Deep Dives/Deep Dives.canvas",
+          "title": "Deep Dives"
+        },
+        {
+          "type": "file",
+          "ctime": 1683418208963,
+          "path": "Canvases/Deep Dives/Central Bank Digital Currencies.canvas",
+          "title": "Central Bank Digital Currencies"
+        },
+        {
+          "type": "file",
+          "ctime": 1686990739143,
+          "path": "Canvases/Deep Dives/MK Ultra Canvas.canvas",
+          "title": "MK-ULTRA"
+        }
+      ],
+      "title": "Deep Dives"
+    }
+  ]
+}

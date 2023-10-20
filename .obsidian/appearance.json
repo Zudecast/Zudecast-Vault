@@ -1,0 +1,15 @@
+{
+  "accentColor": "#00ab3c",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "baseFontSize": 23,
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen"
+  ],
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "nativeMenus": true
+}

@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"type":"group","id":"0083754d74a41f00","x":-1200,"y":-150,"width":700,"height":300,"color":"5","label":"Pre-Show Pipeline"},
+		{"type":"group","id":"43760e053152d2f7","x":-460,"y":-150,"width":700,"height":300,"color":"1","label":"Main Editing Pipeline"},
+		{"type":"group","id":"02673d7e87035318","x":280,"y":-150,"width":680,"height":300,"color":"3","label":"Reels Editing Pipeline"},
+		{"type":"text","text":"# Main","id":"86e23f87e9f37da1","x":-440,"y":-130,"width":180,"height":80,"color":"1"},
+		{"type":"text","text":"# Reels","id":"cbc8160c6941cbf4","x":300,"y":-130,"width":130,"height":80,"color":"3"},
+		{"type":"text","text":"# Cut (Eli)","id":"1e5f724d801ae741","x":300,"y":0,"width":130,"height":130,"color":"1"},
+		{"type":"text","text":"# Edit (Chris)","id":"8abc3f0625fa2b4e","x":490,"y":0,"width":170,"height":130,"color":"3"},
+		{"type":"text","text":"# Review (Robert)","id":"1657b26f1a1d35ea","x":720,"y":0,"width":220,"height":130,"color":"4"},
+		{"type":"text","text":"# Project Setup","id":"0828406a844b15b6","x":-440,"y":0,"width":180,"height":130,"color":"1"},
+		{"type":"text","text":"# Markers","id":"aa8ee1eddbcbea4c","x":-190,"y":0,"width":170,"height":130,"color":"3"},
+		{"type":"text","text":"# Reels Prep","id":"4f37c73f91e40f30","x":60,"y":0,"width":160,"height":130,"color":"4"},
+		{"type":"text","text":"# IG Flyer","id":"6ed84c7d98267ffe","x":-880,"y":0,"width":120,"height":130,"color":"3"},
+		{"type":"text","text":"# Thumb","id":"4c4273363913fd82","x":-680,"y":0,"width":160,"height":130,"color":"4"},
+		{"type":"text","text":"# Pre-Show","id":"736a3301437ec792","x":-1180,"y":-130,"width":220,"height":80,"color":"5"},
+		{"type":"text","text":"# Pre-Show Script","id":"38c16e32af8857a3","x":-1180,"y":0,"width":220,"height":130,"color":"1"},
+		{"type":"text","text":"# Publish","id":"5dffa385f3901ccd","x":1030,"y":-130,"width":170,"height":80,"color":"4"},
+		{"id":"306ebd62be6051c0","x":-1840,"y":-200,"width":400,"height":400,"color":"4","type":"file","file":"Zudecast Dashboard.canvas"}
+	],
+	"edges":[
+		{"id":"c8117274b39b9eea","fromNode":"736a3301437ec792","fromSide":"right","toNode":"86e23f87e9f37da1","toSide":"left"},
+		{"id":"e54705eb654434a0","fromNode":"736a3301437ec792","fromSide":"bottom","toNode":"38c16e32af8857a3","toSide":"top"},
+		{"id":"65bad38e9d50c708","fromNode":"38c16e32af8857a3","fromSide":"right","toNode":"6ed84c7d98267ffe","toSide":"left"},
+		{"id":"5da4a244aada6786","fromNode":"86e23f87e9f37da1","fromSide":"right","toNode":"cbc8160c6941cbf4","toSide":"left"},
+		{"id":"fa91c3e1c78f5273","fromNode":"86e23f87e9f37da1","fromSide":"bottom","toNode":"0828406a844b15b6","toSide":"top"},
+		{"id":"5cce27cf6573d1ca","fromNode":"cbc8160c6941cbf4","fromSide":"bottom","toNode":"1e5f724d801ae741","toSide":"top"},
+		{"id":"8087ef74191c819b","fromNode":"cbc8160c6941cbf4","fromSide":"right","toNode":"5dffa385f3901ccd","toSide":"left"},
+		{"id":"33fccd54f9378585","fromNode":"1e5f724d801ae741","fromSide":"right","toNode":"8abc3f0625fa2b4e","toSide":"left"},
+		{"id":"8d41028e1fb18319","fromNode":"4f37c73f91e40f30","fromSide":"right","toNode":"1e5f724d801ae741","toSide":"left"},
+		{"id":"bb120230637ee86d","fromNode":"8abc3f0625fa2b4e","fromSide":"right","toNode":"1657b26f1a1d35ea","toSide":"left"},
+		{"id":"be7d851d8854e6eb","fromNode":"1657b26f1a1d35ea","fromSide":"right","toNode":"5dffa385f3901ccd","toSide":"left"},
+		{"id":"3b1c5979a80952cd","fromNode":"0828406a844b15b6","fromSide":"right","toNode":"aa8ee1eddbcbea4c","toSide":"left"},
+		{"id":"79932268693c35a5","fromNode":"4c4273363913fd82","fromSide":"right","toNode":"0828406a844b15b6","toSide":"left"},
+		{"id":"9f97958ce1f02d44","fromNode":"aa8ee1eddbcbea4c","fromSide":"right","toNode":"4f37c73f91e40f30","toSide":"left"},
+		{"id":"d0b27178efc68f03","fromNode":"6ed84c7d98267ffe","fromSide":"right","toNode":"4c4273363913fd82","toSide":"left"},
+		{"id":"1ca5f70c35d45e2b","fromNode":"306ebd62be6051c0","fromSide":"right","toNode":"0083754d74a41f00","toSide":"left"}
+	]
+}

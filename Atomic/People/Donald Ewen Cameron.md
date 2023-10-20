@@ -1,0 +1,7 @@
+- Psychiatrist at the [[Alan Memorial Institute]].
+- Present during the Nuremburg Trials
+- Psychologically profiled [[Rudolf Hess]], who was a [[ Deputy Fuhrer]] in the Nazi party
+- Cameron published "The Social Re-organization of Germany" which was a sociological study of the rise of Nazism.
+- Published "Nuremburg and its Significance" which is about holding Germany accountable for the actions of the Nazi party.
+- Received $69k from 1957 - 1964 funding from [[MK-ULTRA]] subproject 68, known as the [[Montreal Experiments]].
+- Major goal was correcting schizophrenia by erasing existing memories and reprogramming the psyche

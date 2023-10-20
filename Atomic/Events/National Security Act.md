@@ -1,0 +1,3 @@
+> (1947)
+
+> With the end of World War II, the Joint Chiefs of Staff was officially established under the National Security Act of 1947. Per the National Security Act, the JCS consisted of a chairman, the chief of staff of the Army, the chief of staff of the Air Force (which was established as a separate service by the same Act), and the chief of naval operations. The commandant of the Marine Corps was to be consulted on matters concerning the Corps, but was not a regular member; General Lemuel C. Shepherd, Jr., Commandant in 1952–55, was the first to sit as an occasional member. The law was amended during the term of General Louis H. Wilson, Jr. (1975–79), making the commandant a full-time JCS member in parity with the other three DoD services

@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file: Zudecast",
+      "color": {
+        "a": 1,
+        "rgb": 65280
+      }
+    },
+    {
+      "query": "file: Market Matters",
+      "color": {
+        "a": 1,
+        "rgb": 43775
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.6,
+  "nodeSizeMultiplier": 1.97223163338088,
+  "lineSizeMultiplier": 2.05611180456491,
+  "collapse-forces": true,
+  "centerStrength": 0.776041666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.08843916562706164,
+  "close": true
+}

@@ -1,0 +1,36 @@
+{
+	"nodes":[
+		{"type":"group","id":"24e057ef4ddc8068","x":-1930,"y":-360,"width":2950,"height":700,"color":"4","label":"Dashboard"},
+		{"type":"group","id":"74d239fbe69a197a","x":300,"y":-880,"width":425,"height":400,"label":"Editing"},
+		{"type":"group","id":"857dfa08df9dbf19","x":-1135,"y":-880,"width":400,"height":400,"label":"Sources"},
+		{"type":"group","id":"54ced5e2857b761d","x":-655,"y":-880,"width":400,"height":400,"label":"Streams"},
+		{"type":"group","id":"f38c779021553003","x":-175,"y":-880,"width":400,"height":400,"label":"Content"},
+		{"type":"group","id":"3ece5eed1b61d13d","x":800,"y":-880,"width":400,"height":400,"label":"Distribution"},
+		{"type":"group","id":"4d20e3a8218a5f77","x":-1615,"y":-880,"width":400,"height":400,"label":"Promotion"},
+		{"type":"group","id":"12dc99c0660ad54b","x":-2095,"y":-880,"width":400,"height":400,"label":"Preparation"},
+		{"type":"text","text":"- [ ] Thumbnail\n- [ ] Flyer","id":"772bae1f1e9e1254","x":-2070,"y":-840,"width":351,"height":320,"color":"4"},
+		{"type":"text","text":"- [ ] Instagram Stories\n- [ ] YouTube Community","id":"a29b76b2b2e37f8a","x":-1590,"y":-840,"width":351,"height":320,"color":"3"},
+		{"type":"text","text":"Reels/Shorts","id":"600e16a62de6dc96","x":-145,"y":-840,"width":340,"height":120,"color":"2"},
+		{"type":"text","text":"Deep Dive","id":"a9a6b54957f9754f","x":-1110,"y":-840,"width":351,"height":120,"color":"5"},
+		{"type":"text","text":"YouTube","id":"a58f88876c054b0a","x":-630,"y":-840,"width":351,"height":120,"color":"1"},
+		{"type":"text","text":"YouTube Clips","id":"4374541cdcd5654e","x":-145,"y":-640,"width":340,"height":120,"color":"2"},
+		{"type":"file","file":"Canvases/Pipelines/Editing Pipeline.canvas","id":"15a9c52841925610","x":340,"y":-840,"width":345,"height":320,"color":"1"},
+		{"type":"text","text":"Rumble\n","id":"d26444e3f9818ffc","x":825,"y":-640,"width":351,"height":120,"color":"4"},
+		{"type":"text","text":"YouTube","id":"4190e27d16138700","x":828,"y":-840,"width":345,"height":120,"color":"1"},
+		{"type":"text","text":"Guest Content","id":"61a3c51a92c94e72","x":-1110,"y":-640,"width":351,"height":120,"color":"5"},
+		{"type":"text","text":"Rumble\n","id":"173d2e27a6a599a4","x":-630,"y":-640,"width":351,"height":120,"color":"4"},
+		{"type":"text","text":"# Zudecast Bills\n---\n## (~$240) Monthly\n- ($45) Cloudlifter\n- ($10) Google Drive\n- ($5) Blackmagic Cloud\n>  ### (~$180) Weekly\n> - ($45) Pay a Producer","id":"ddd8bbfbb9db8ef3","x":-1879,"y":-320,"width":520,"height":620,"color":"5"},
+		{"type":"text","text":"# Vault Overhaul\n- [x] Update all episode and file names to new naming convention\n- [x] resize thumbnail template to 1080p\n- [x] Finish updating existing episodes' md files\n- [ ] add old episodes\n","id":"6f600fcce20ef87b","x":-1310,"y":-320,"width":520,"height":620,"color":"1"},
+		{"type":"text","text":"# 📺 Zudecast\n\n```dataview\nLIST\nfrom \"Project Files/Zudecast\"\nsort file.name desc\n```","id":"b0e7dcd852ebfbdd","x":-740,"y":-320,"width":470,"height":620},
+		{"type":"file","file":"Canvases/Deep Dives/Deep Dives.canvas","id":"f62ae241a8176391","x":-200,"y":-320,"width":495,"height":620},
+		{"id":"d0d9644b884124ad","x":340,"y":-320,"width":620,"height":620,"type":"file","file":"Canvases/Deep Dives/UAPs.canvas"}
+	],
+	"edges":[
+		{"id":"b60fa27c344fd875","fromNode":"4d20e3a8218a5f77","fromSide":"right","toNode":"857dfa08df9dbf19","toSide":"left"},
+		{"id":"7e7c59991d2cc556","fromNode":"12dc99c0660ad54b","fromSide":"right","toNode":"4d20e3a8218a5f77","toSide":"left"},
+		{"id":"b9aa10ba78f60f81","fromNode":"f38c779021553003","fromSide":"right","toNode":"15a9c52841925610","toSide":"left"},
+		{"id":"ad825284d19636d1","fromNode":"54ced5e2857b761d","fromSide":"right","toNode":"f38c779021553003","toSide":"left"},
+		{"id":"371e915db1c185c0","fromNode":"857dfa08df9dbf19","fromSide":"right","toNode":"54ced5e2857b761d","toSide":"left"},
+		{"id":"50abf606f346a142","fromNode":"15a9c52841925610","fromSide":"right","toNode":"3ece5eed1b61d13d","toSide":"left"}
+	]
+}

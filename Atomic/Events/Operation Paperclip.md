@@ -1,0 +1,3 @@
+> (1945 - 1959) 
+
+> A precursor of the [[MK-ULTRA]] program began in 1945 when the [[Joint Intelligence Objectives Agency]] was established and given direct responsibility for [[Operation Paperclip]], which was a program to recruit former Nazi scientists. Some of these scientists studied torture and brainwashing, and several had just been identified and prosecuted as war criminals during the [[Nuremburg Trials]].

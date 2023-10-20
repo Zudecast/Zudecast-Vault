@@ -1,0 +1,3 @@
+> (1966 -1967)
+
+ > [[Louis Jolyon West|Jolly West]] "led a group of researchers to San Francisco's Haight-Ashbury district, where they rented an apartment and "studied the hippie culture" during the latter half of 1967 under a contract with the [[Foundations Fund for Research in Psychiatry, Inc]]. University of Hawai'i at Mānoa psychologist [[Anthony J. Marsella]] has alleged that the [[Foundations Fund for Research in Psychiatry, Inc|Foundations Fund]] was employed as a [[CIA]] funding conduit during the Vietnam War.
